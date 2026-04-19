@@ -263,6 +263,16 @@ Complete MySQL schema — 353 lines covering table definitions, indexes, views, 
 
 ---
 
+## 📌 ER Diagram
+The Entity-Relationship diagram below shows all entities, their attributes, and the relationships between them.
+<img width="852" height="495" alt="image" src="https://github.com/user-attachments/assets/d9da76df-ca4a-4ee8-83d8-b2dc06484f82" />
+
+
+## 📌 Relational Schema
+The relational schema below shows the physical table structures as implemented in MySQL, including data types, primary keys, foreign keys, indexes, and triggers.
+<img width="852" height="495" alt="image" src="https://github.com/user-attachments/assets/a92e95a7-f0b4-43ef-b4e0-5abf903ab2c1" />
+
+
 ## 📌 Project Info
 
 | Field       | Detail                                |
